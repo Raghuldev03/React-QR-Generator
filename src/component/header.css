@@ -1,0 +1,11 @@
+nav {
+  height: 90px;
+}
+.navbar-brand,
+.offcanvas-title {
+  font-weight: bold;
+  font-size: x-large;
+}
+.nav-item a {
+  font-weight: bold;
+}
